@@ -1,4 +1,4 @@
-<img src="./header_en.svg"></img>
+<img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
 
 <!-- Your title -->
 ## Hi, I'm MD Sulan Mahmud Safoun, an aspiring Developer 🚀 from Bangladesh
@@ -65,5 +65,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 <hr>
-
-<img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
