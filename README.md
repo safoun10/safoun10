@@ -5,6 +5,9 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/safoun10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safoun10/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safoun.official@gmail.com)
@@ -58,6 +61,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
-</p>
+
+<hr>
+
+<img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
