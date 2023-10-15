@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Redux and UI/UX principles; 
 - 💼 I’m looking forward for any job opportunities;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm a senior year high school school student;
+- ⚡️ Fun-Fact: I'm a senior year high school student;
 - 📫 How to reach me: safoun.officail@gmail.com;
 
 **Languages and Tools:** 
