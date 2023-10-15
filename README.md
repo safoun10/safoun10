@@ -31,7 +31,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=safoun10&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
