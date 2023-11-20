@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [TechSphereX](https://github.com/safoun10/TechSphereX);
-- 🌱 I’m currently learning Redux and UI/UX principles; 
+- 🌱 I’m currently learning React Native and Android Development; 
 - 💼 I’m working as a Full Stack Dev @[HopStair](https://www.linkedin.com/company/hopstair/);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm a senior year high school student;
