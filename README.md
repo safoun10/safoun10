@@ -1,7 +1,7 @@
 <img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
 
 <!-- Your title -->
-## Hi, I'm MD Sultan Mahmud Safoun, Full Stack Developer 🚀 from Bangladesh ❕
+## Hi, I'm MD Sultan Mahmud Safoun, Full Stack Developer 🚀 from Bangladesh❕
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -39,7 +39,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -60,7 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+Both API's are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
 <hr>
