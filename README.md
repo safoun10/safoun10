@@ -30,8 +30,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+<!-- Your GitHub readme stats
+You can use this API: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/safoun10">
