@@ -1,4 +1,5 @@
 <img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
+<hr>
 
 <!-- Your title -->
 ## Hi, I'm MD Sultan Mahmud Safoun, Full Stack Developer 🚀 from Bangladesh❕
@@ -35,7 +36,7 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/safoun10">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=safoun10&rank_icon=github&theme=dark" />
+    <img width="55%" align="right" alt="Safoun's github stats" src="https://github-readme-stats.vercel.app/api?username=safoun10&rank_icon=github&theme=dark" />
   </a>
 
   
@@ -64,5 +65,5 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both API's are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-
+<br>
 <hr>
