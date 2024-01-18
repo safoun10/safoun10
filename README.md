@@ -23,6 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+
 - 👨🏽‍💻 I’m currently working on [TechSphereX](https://github.com/safoun10/TechSphereX);
 - 🌱 I’m currently maintaining consistency; 
 - 💬 Ask me about anything, I am happy to help;
@@ -34,12 +35,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your GitHub readme stats
 You can use this API: https://github.com/anuraghazra/github-readme-stats
 -->
+
+<br>
+<br>
 <p>
   <a href="https://github.com/safoun10">
     <img width="55%" align="right" alt="Safoun's github stats" src="https://github-readme-stats.vercel.app/api?username=safoun10&rank_icon=github&theme=dark" />
   </a>
-
-  
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
