@@ -3,11 +3,9 @@
 
 <!-- Your title -->
 ## Hi, I'm MD Sultan Mahmud Safoun, Full Stack Developer 🚀 from Bangladesh
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
 
@@ -15,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safoun10/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safoun.official@gmail.com)
 
-&nbsp;
+
 
 <!-- Talking about you -->
 **Know About Me:**
@@ -67,5 +65,4 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both API's are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<br>
 <hr>
