@@ -65,4 +65,5 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both API's are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
+<br>
 <hr>
