@@ -1,11 +1,15 @@
 <img width="100%" align="center" alt="safoun" src="https://i.postimg.cc/JhmsP1mt/safoun.jpg" />
 <hr>
+<hr>
 
 <!-- Your title -->
 ## Hi, I'm MD Sultan Mahmud Safoun, Full Stack Developer 🚀 from Bangladesh
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+
+<hr>
+<hr>
 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
 
