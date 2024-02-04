@@ -69,5 +69,3 @@ Both API's are in trouble due to the number of requests, if you know any other t
 -->
 <br>
 <hr>
-<hr>
-<hr>
