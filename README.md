@@ -8,7 +8,6 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <hr>
-<hr>
 <h3>CURRENTLY HIBERNATING !!!</h3>
 <hr>
 <hr>
