@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <hr>
-<h3>CURRENTLY HIBERNATING !!!</h3>
+<h3>CURRENTLY HIBERNATING !</h3>
 <hr>
 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
