@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <hr>
-<h3>CURRENTLY HIBERNATING !</h3>
+<h3>REJUVENATING !</h3>
 <hr>
 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on [TechSphereX](https://github.com/safoun10/TechSphereX),
 - 🌱 I’m currently maintaining consistency,
 - 💬 Ask me about anything, I am happy to help,
-- ⚡️ Fun-Fact: I'm a senior year high school student,
+- ⚡️ Fun-Fact: I'm a high school graduate,
 - 📫 How to reach me: safoun.officail@gmail.com
 
 **Languages and Tools:** 
