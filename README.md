@@ -2,13 +2,13 @@
 <hr>
 
 <!-- Your title -->
-## Hi, I'm MD Sultan Mahmud Safoun, Junior Full Stack Developer 🚀 from Bangladesh❕
+# Hi 😊 <br> I'm Safoun <br> A Junior Full Stack Developer from Bangladesh❕
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 <hr>
-<h3>REJUVENATING !</h3>
+<h3>I'm currently REJUVENATING !🤧</h3>
 <hr>
 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
