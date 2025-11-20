@@ -7,3 +7,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safoun10/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safoun.official@gmail.com)
 
+Full Stack Software Developer || Competitive Programmer || Problem Solver
