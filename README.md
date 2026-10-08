@@ -8,3 +8,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safoun.official@gmail.com)
 
 Full Stack Software Developer || Competitive Programmer || Problem Solver
+.
